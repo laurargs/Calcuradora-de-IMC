@@ -44,7 +44,7 @@ def main():
         else:
             print("Opção inválida! Tente novamente.")
 
-# Verificando se o script está sendo executado diretamente/corretamente 
+# Verificando se o script está sendo executado diretamente
 if __name__ == "__main__":
     main()
     
